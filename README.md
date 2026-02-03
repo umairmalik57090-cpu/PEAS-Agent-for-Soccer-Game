@@ -68,12 +68,4 @@ Action taken: Shoot towards goal
 ### 📚 Academic Use
 
 This project is created for **educational purposes** to help students understand AI agents and the PEAS model. It can be extended into advanced simulations or multi-agent systems.
-
----
-
-### 👤 Author
-
-**Muhammad Umair**
-Artificial Intelligence Student
-
 Just say **“enhance README”** 🚀
