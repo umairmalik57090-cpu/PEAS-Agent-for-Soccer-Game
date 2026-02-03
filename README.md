@@ -1,8 +1,3 @@
-Got it 👍
-Here’s a **clean, professional GitHub project description** you can directly paste into your **README.md** file. It’s written in a **teacher-friendly + GitHub-standard** way.
-
----
-
 ## 🏟️ AI Soccer Agent Using PEAS Framework
 
 ### 📌 Project Description
